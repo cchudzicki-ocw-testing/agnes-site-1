@@ -12,7 +12,7 @@
     "content": "",
     "website": "agnes-site-1"
   },
-  "course_title": "TEst title",
+  "course_title": "TEst titl",
   "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "helloooo",
@@ -22,5 +22,5 @@
   "learning_resource_types": [],
   "site_uid": "0388f9d7-3040-4bf4-8d1d-9647789ed701",
   "site_short_id": "agnes-site-1",
-  "site_url_path": "courses/8-123-test-title-[sitemetadata:term]-[sitemetadata:year]"
+  "site_url_path": "courses/8-123-test-titl-[sitemetadata:term]-[sitemetadata:year]"
 }
